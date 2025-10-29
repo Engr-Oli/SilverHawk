@@ -1,2 +1,0 @@
-# SilverHawk
-class-project
